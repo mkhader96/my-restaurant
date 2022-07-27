@@ -12,12 +12,11 @@
 * **Banana Py** ......................................................... 4.5 JOD
 ![Banana Pie](https://sallysbakingaddiction.com/wp-content/uploads/2016/07/how-to-make-banana-cream-pie-7.jpg)
 
-
 Home Page:
-![Home](./Imahes/Home%202.JPG)
+![Home](./Images/Home%202.JPG)
 
 Menu:
-![Menu](./Imahes/Menu.JPG)
+![Menu](./Images/Menu.JPG)
 
 About:
-![About](./Imahes/About.JPG)
+![About](./Images/About.JPG)
