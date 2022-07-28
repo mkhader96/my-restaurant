@@ -1,0 +1,46 @@
+h1{
+    display: inline; font-size: 80px; margin-right: 20px;
+    margin-top: 30px;
+}
+li{
+    display: inline ; margin-left: 20px; margin-right: 20px;}
+#logo{
+display: inline; margin-top: 30px; margin-bottom: -10px; 
+}
+header{
+    background-color: rgb(231, 135, 218);
+} 
+li{
+    background-color: rgb(209, 113, 228); border:1px solid rgb(189, 123, 206); 
+    padding: 15px; margin: 50px;
+}
+.pie{
+    display: inline; width: 250px; height: 250px; margin-top: 50px; margin-right: 20px;
+    margin-left: 50px;
+}
+nav{
+    background-color: rgb(160, 70, 148); margin-top: 50px; padding-top: 25px; padding-bottom: 25px;
+}
+main{
+    background-color: bisque; margin-bottom: 0px; padding-bottom: 100px;
+}
+#social{
+    width: 250px; margin-left: 37.5%;
+}
+p{
+    display: inline-block;  margin-left: 50px; font-size: xx-large; padding-bottom: 50px;
+    
+}
+footer{
+    margin-top: 0px; background-color: blanchedalmond;
+}
+span{
+    font-size:xx-large; padding-right: 50px;
+
+}
+.menu{
+    width: 250px;height: 250px; margin-top: 100px; margin-left: 100px;
+}
+#About{
+    font-size: xx-large; padding-top: 100px;
+}
